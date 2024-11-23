@@ -1,5 +1,6 @@
 <h1 align="center">Hello, world! I'm Beatrice :D</h1>
 <h3 align="center">A competitive programmer from the great land of Ireland.</h3>
+(I was feeling fancy today, so here you go!)
 
 - 🔭 I’m currently working on: **a cool extension thing to block manosphere content. This is our project for BTYS this year :) (not public yet)**
 
