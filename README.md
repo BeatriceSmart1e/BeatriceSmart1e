@@ -2,9 +2,9 @@
 <h3 align="center">A competitive programmer from the great land of Ireland.</h3>
 (I was feeling fancy today, so here you go!)
 
-- 🔭 I’m currently working on: **a cool extension thing to block manosphere content. This is our project for BTYS this year :)**
+- 🔭 I’m currently working on: **a Wireguard VPN server(?) for our home.**
 
-- 🌱 I’m currently learning: **Web development - building an extension is a whole new experience for me!**
+- 🌱 I’m currently learning: **a whole lot of networking!**
 
 - 📝 I write some stuff on my website: [www.beatricetech.com](www.beatricetech.com)
 
