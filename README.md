@@ -2,13 +2,11 @@
 <h3 align="center">A competitive programmer from the great land of Ireland.</h3>
 (I was feeling fancy today, so here you go!)
 
-- 🔭 I’m currently working on: **a Wireguard VPN server(?) for our home.**
+- 🔭 I’m currently working on: **some app dev, and some experimentation with electronics :D**
 
-- 🌱 I’m currently learning: **a whole lot of networking!**
+- 🌱 I’m currently learning: **how to use git.**
 
 - 📝 I write some stuff on my website: [www.beatricetech.com](www.beatricetech.com)
-
-- 📫 How to reach me: **beatricesmartie@gmail.com**
 
 - ⚡ Fun fact(s): **I've been coding since I was 11, and C++ is my favourite programming language :0**
 
