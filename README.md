@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: **ML and configuring RF modules.**
 
-- 📝 I write some stuff on my website: [www.beatricetech.com](www.beatricetech.com)
-
 - ⚡ Fun fact: **C++ is my favourite language!**
 
 <h3 align="left">The things I know and love:</h3>
