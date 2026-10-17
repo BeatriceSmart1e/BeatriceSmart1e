@@ -1,13 +1,30 @@
-<h1 align="center">I'm Beatrice :D</h1>
-<h3 align="center">A curious programmer</h3>
+## What's up?
+The ceiling - we don’t touch grass around these parts so we don’t see what's above that.
 
-- 🔭 I’m currently working on: **a mesh network project :D**
+I'm Beatrice - I like programming, ham radio, and mathematics. Some may say it's the Holy Trinity :0
 
-- 🌱 I’m currently learning: **ML and configuring RF modules.**
+I don't believe in fancy READMEs. I am not a larper.
 
-- ⚡ Fun fact: **C++ is my favourite language!**
+I am good at:
+- Linux
+- macOS (so zsh basically)
+- C++
+- Python
+- DS/Algo stuff
+- Docker (screw Kubernetes gang)
+- Maths (on some levels)
+- Critical thinking (AI needs help sometimes)
+- Prompting (I need help sometimes)
+- HTML/CSS
+- Hating Vercel
+- Disliking JS/React
+- Ham radio (to some extent)
+- DevOps (not quite but I am getting there)
+- Virtualisation
+- Some hardware (the extent is making a small weather station with an ESP32)
+- Git (shockingly this is quite a recent skill I have acquired)
+- Being patient (very underrated skill)
 
-<h3 align="left">The things I know and love:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+I am working on three things: mesh networking, getting a radio license, and a startup called [Equilibrium.](equilibrium.ie)
 
-
+You may see I don’t have much here - GitHub is something I only started to use recently, I keep most things local. I may update some repos from time to time so more people can see that maybe I am not so inactive :D
