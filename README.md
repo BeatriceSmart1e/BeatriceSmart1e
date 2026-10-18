@@ -1,7 +1,7 @@
 ## What's up?
 The ceiling - we don’t touch grass around these parts so we don’t see what's above that.
 
-I'm Beatrice - I like programming, ham radio, and mathematics. Some may say it's the Holy Trinity :0
+I'm Beatrice - I like programming, ham radio, and mathematics.
 
 I don't believe in fancy READMEs. I am not a larper.
 
