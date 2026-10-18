@@ -1,5 +1,5 @@
 ## What's up?
-The ceiling - we don’t touch grass around these parts so we don’t see what's above that.
+> The ceiling - we don’t touch grass around these parts so we don’t see what's above that.
 
 I'm Beatrice - I like programming, ham radio, and mathematics.
 
