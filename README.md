@@ -5,7 +5,7 @@ I'm Beatrice - I like programming, ham radio, and mathematics.
 
 I don't believe in fancy READMEs. I am not a larper.
 
-Say hello to my fish!
+Say hello to my fish! He is also not a larper.
 
 <img src="koi/koi.gif" width="256" alt="My koi">
 
