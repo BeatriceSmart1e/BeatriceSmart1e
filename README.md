@@ -5,6 +5,10 @@ I'm Beatrice - I like programming, ham radio, and mathematics.
 
 I don't believe in fancy READMEs. I am not a larper.
 
+Say hello to my fish!
+
+<img src="koi/koi.gif" width="256" alt="My koi">
+
 I am good at:
 - Linux
 - macOS (so zsh basically)
@@ -28,5 +32,3 @@ I am good at:
 I am working on three things: mesh networking, getting a radio license, and a startup called [Equilibrium.](equilibrium.ie)
 
 You may see I don’t have much here - GitHub is something I only started to use recently, I keep most things local. I may update some repos from time to time so more people can see that maybe I am not so inactive :D
-
-<img src="koi/koi.gif" width="256" alt="My koi">
